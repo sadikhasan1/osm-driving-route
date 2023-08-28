@@ -19,13 +19,13 @@ This is a simple web application that uses OpenStreetMap, Leaflet, and Leaflet R
 
 2. The map will be displayed, and you'll see two markers representing the start and end locations.
 
-3. You can customize the start and end locations by modifying the latitude and longitude values in the `script.js` file.
+3. You can customize the start and end locations by modifying the latitude and longitude values in the script section.
 
 4. The route between the start and end locations will be calculated and displayed on the map, with a customizable color for the route line.
 
 ## Customization
 
-- To change the color of the route highlight, modify the `lineOptions` in the `script.js` file. You can change the `color`, `opacity`, and `weight` properties.
+- To change the color of the route highlight, modify the `lineOptions` in the script section. You can change the `color`, `opacity`, and `weight` properties.
 
 ## Libraries Used
 
