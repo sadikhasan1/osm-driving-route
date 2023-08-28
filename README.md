@@ -1,4 +1,3 @@
-```markdown
 # OpenStreetMap Driving Distance and Route Highlight
 
 This is a simple web application that uses OpenStreetMap, Leaflet, and Leaflet Routing Machine to calculate driving distances and display route highlights between two locations.
